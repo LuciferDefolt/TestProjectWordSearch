@@ -1,0 +1,21 @@
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\TestProject 10.11.21-15.11.21.exe.config
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\TestProject 10.11.21-15.11.21.exe
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\TestProject 10.11.21-15.11.21.pdb
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\MySql.Data.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\Google.Protobuf.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\Zstandard.Net.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\System.Memory.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\System.Buffers.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\bin\Debug\MySql.Data.xml
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.csprojAssemblyReference.cache
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.exe.config
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.csproj.CoreCompileInputs.cache
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.csproj.CopyComplete
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.exe
+C:\Users\Devold\source\repos\TestProject 10.11.21-15.11.21\TestProject 10.11.21-15.11.21\obj\Debug\TestProject 10.11.21-15.11.21.pdb
